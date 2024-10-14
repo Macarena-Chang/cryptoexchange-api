@@ -46,65 +46,22 @@
  
 ```JSON [
     {
-        "id": 1,
-        "codigo": "MAE",
-        "descripcion": "Mercado Argentino de Valores",
-        "pais": {
-            "id": 1,
-            "nombre": "Argentina"
-        },
-        "comitentes": [
-            {
-                "id": 22,
-                "descripcion": "Comitente 03"
-            },
-            {
-                "id": 20,
-                "descripcion": "Comitente 01"
-            },
-            {
-                "id": 21,
-                "descripcion": "Comitente 02"
-            },
-            {
-                "id": 25,
-                "descripcion": "Comitente 06"
-            }
-        ]
+        "pais": "Argentina",
+        "mercado": {
+            "MAE": 80.0
+        }
     },
     {
-        "id": 2,
-        "codigo": "ROFEX",
-        "descripcion": "Mercado de Futuros",
-        "pais": {
-            "id": 1,
-            "nombre": "Argentina"
-        },
-        "comitentes": [
-            {
-                "id": 26,
-                "descripcion": "Comitente 07"
-            }
-        ]
+        "pais": "Argentina",
+        "mercado": {
+            "ROFEX": 20.0
+        }
     },
     {
-        "id": 3,
-        "codigo": "UFEX",
-        "descripcion": "Mercado de Uruguay",
-        "pais": {
-            "id": 2,
-            "nombre": "Uruguay"
-        },
-        "comitentes": [
-            {
-                "id": 23,
-                "descripcion": "Comitente 04"
-            },
-            {
-                "id": 24,
-                "descripcion": "Comitente 05"
-            }
-        ]
+        "pais": "Uruguay",
+        "mercado": {
+            "UFEX": 100.0
+        }
     }
 ]
 ```
