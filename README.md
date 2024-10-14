@@ -111,7 +111,8 @@
 
 ## Swagger Doc
 Available at ```/swagger-ui/index.html```
-https://i.imgur.com/tC8xvOf.png
+![Swagger](https://i.imgur.com/tC8xvOf.png)
+
 ## :toolbox: Getting Started
 
 ### :bangbang: Prerequisites
