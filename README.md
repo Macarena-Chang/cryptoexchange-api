@@ -72,8 +72,9 @@ Available at ```/swagger-ui/index.html``` <br>
 - The API is deployed on an AWS EC2 instance and uses an AWS RDS MySQL database.
 - AWS RDS Mysql instance: [database-1.cvgow4wwexa0.us-east-2.rds.amazonaws.com](database-1.cvgow4wwexa0.us-east-2.rds.amazonaws.com).
 - AWS EC2: [ec2-3-142-238-82.us-east-2.compute.amazonaws.com](ec2-3-142-238-82.us-east-2.compute.amazonaws.com).
-- Full API documentation is available via **Swagger UI** at the following URL: [http://ec2-3-142-238-82.us-east-2.compute.amazonaws.com:8080/swagger-ui/index.html](http://ec2-3-142-238-82.us-east-2.compute.amazonaws.com:8080/swagger-ui/index.html)
-![Documentation]([https://i.imgur.com/tC8xvOf.png](https://i.imgur.com/x849Vrg.png))
+- Full API documentation is available via **Swagger UI** at the following URL: [http://ec2-3-142-238-82.us-east-2.compute.amazonaws.com:8080/swagger-ui/index.html](http://ec2-3-142-238-82.us-east-2.compute.amazonaws.com:8080/swagger-ui/index.html).
+  <br>
+![Documentation](https://i.imgur.com/tC8xvOf.png](https://i.imgur.com/x849Vrg.png)
 
 
 ---
