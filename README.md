@@ -65,6 +65,9 @@
 Available at ```/swagger-ui/index.html```
 ![Swagger](https://i.imgur.com/tC8xvOf.png)
 
+## Cloud Database Instance 
+AWS RDS Mysql instance: [database-1.cvgow4wwexa0.us-east-2.rds.amazonaws.com](database-1.cvgow4wwexa0.us-east-2.rds.amazonaws.com).
+
 ## :toolbox: Getting Started
 
 ### :bangbang: Prerequisites
