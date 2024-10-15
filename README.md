@@ -22,15 +22,10 @@
 <li><a href="">Spring Data JPA</a></li>
 <li><a href="">Lombok</a></li>
 <li><a href="">Swagger/OpenAPI</a></li>
+<li><a href="">Cloud Database Instance</a></li> 
 </ul> </details>
 
- To do:
-<li><a href="">Cloud Database Instance</a></li>
-</ul> </details>
-<li><a href="">CI: Automate builds and testing</a></li>
-<li><a href="">Jenkins/Github Actions</a></li>
-<li><a href="">SonarCLoud</a></li>
-</ul> </details>
+
 
 ## API
 1- Save / Retrieve [Investment Accounts, Markets, Countries]  from DB. <br> 
@@ -91,5 +86,13 @@ To run this project, you will need to add the following environment variables to
 Clone the project
 
 ```bash
-git clone[https://github.com/Macarena-Chang/cryptoexchange-api.git]
+git clone (https://github.com/Macarena-Chang/cryptoexchange-api.git)
 ```
+
+
+To do:
+</ul> </details>
+<li><a href="">CI: Automate builds and testing</a></li>
+<li><a href="">Jenkins/Github Actions</a></li>
+<li><a href="">SonarCLoud</a></li>
+</ul> </details>
