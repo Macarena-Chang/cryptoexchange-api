@@ -22,7 +22,7 @@
 <li><a href="">Spring Data JPA</a></li>
 <li><a href="">Lombok</a></li>
 <li><a href="">Swagger/OpenAPI</a></li>
-<li><a href="">Cloud Database Instance</a></li> 
+<li><a href="">AWS Deployed</a></li> 
 </ul> </details>
 
 
@@ -62,12 +62,21 @@
 ```
 
 ## Swagger Doc
-Available at ```/swagger-ui/index.html```
+Available at ```/swagger-ui/index.html``` <br>
 ![Swagger](https://i.imgur.com/tC8xvOf.png)
+ 
 
-## Cloud Database Instance 
-AWS RDS Mysql instance: [database-1.cvgow4wwexa0.us-east-2.rds.amazonaws.com](database-1.cvgow4wwexa0.us-east-2.rds.amazonaws.com).
 
+## Deployed API Documentation
+
+- The API is deployed on an AWS EC2 instance and uses an AWS RDS MySQL database.
+- AWS RDS Mysql instance: [database-1.cvgow4wwexa0.us-east-2.rds.amazonaws.com](database-1.cvgow4wwexa0.us-east-2.rds.amazonaws.com).
+- AWS EC2: [ec2-3-142-238-82.us-east-2.compute.amazonaws.com](ec2-3-142-238-82.us-east-2.compute.amazonaws.com).
+- Full API documentation is available via **Swagger UI** at the following URL: [http://ec2-3-142-238-82.us-east-2.compute.amazonaws.com:8080/swagger-ui/index.html](http://ec2-3-142-238-82.us-east-2.compute.amazonaws.com:8080/swagger-ui/index.html)
+![Documentation]([https://i.imgur.com/tC8xvOf.png](https://i.imgur.com/x849Vrg.png))
+
+
+---
 ## :toolbox: Getting Started
 
 ### :bangbang: Prerequisites
@@ -89,7 +98,7 @@ To run this project, you will need to add the following environment variables to
 Clone the project
 
 ```bash
-git clone (https://github.com/Macarena-Chang/cryptoexchange-api.git)
+git clone https://github.com/Macarena-Chang/cryptoexchange-api.git) 
 ```
 
 
